@@ -12,6 +12,7 @@ https://blog.amedama.jp/entry/2018/05/01/081842
 以下がエラーメッセージの全文。
 
 """
+
 `load_boston` has been removed from scikit-learn since version 1.2.
 
 The Boston housing prices dataset has an ethical problem: as
